@@ -11,5 +11,8 @@
     "Backend"
   ],
   "author": "warrior",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
